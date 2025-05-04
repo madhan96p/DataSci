@@ -38,11 +38,11 @@ This table contains a list of **Python’s built-in functions**, neatly arranged
 # Python Built-in Types Table
 This table contains **Python’s built-in types**, neatly arranged into columns for quick reference.
 
-| Col 1      | Col 2   | Col 3       | Col 4       | Col 5        |
-| ---------- | ------- | ----------- | ----------- | ------------ |
-| `int`      | `float` | `complex`   | `bool`      | `str`        |
-| `list`     | `tuple` | `set`       | `frozenset` | `dict`       |
-| `NoneType` | `bytes` | `bytearray` | `range`     | `memoryview` |
-| `object`   |         |             |             |              |
+| Col 1      | Col 2   | Col 3       | Col 4       |
+| ---------- | ------- | ----------- | ----------- |
+| `int`      | `float` | `complex`   | `bool`      |         
+| `list`     | `tuple` | `set`       | `frozenset` |        
+| `NoneType` | `bytes` | `bytearray` | `range`     |  
+| `object`   | `str`   |  `dict`     | `memoryview`|              
 
 ---
