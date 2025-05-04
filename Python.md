@@ -46,3 +46,40 @@ This table contains **Python’s built-in types**, neatly arranged into columns 
 | `object`   | `str`   |  `dict`     | `memoryview`|              
 
 ---
+
+## 🔹 Why are there both `set` and `set()` in Python?
+
+The **names** like `set`, `str`, `int`, etc., are **built-in types** in Python. But when you write `set()` or `str()`, you're **calling the constructor** of that type — i.e., creating an instance of that type.
+
+---
+
+### ✅ Think of it this way:
+
+| Type Name | Used As  | Meaning                           |
+| --------- | -------- | --------------------------------- |
+| `int`     | `int()`  | Creates an integer (default is 0) |
+| `str`     | `str()`  | Creates an empty string `""`      |
+| `list`    | `list()` | Creates an empty list `[]`        |
+| `set`     | `set()`  | Creates an empty set `set()`      |
+| `dict`    | `dict()` | Creates an empty dictionary `{}`  |
+
+---
+
+So in Python:
+
+* `int` is the **type**
+* `int()` is calling its **constructor**
+* Both refer to the same underlying thing — the **type object**, but the usage differs.
+
+---
+
+### ⚠️ Bonus:
+
+You can check their identity:
+
+```python
+type(5) == int        # True
+isinstance("hello", str)  # True
+```
+
+---
