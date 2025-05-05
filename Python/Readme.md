@@ -1,7 +1,3 @@
-Here's a list of **core Python topics** (and a few advanced ones) for which we can prepare **Markdown tables or summaries**:
-
----
-
 ### 📚 **Core Python Topics for Markdown Tables**
 
 | Category                 | Example Section Title                | Description                                     |
