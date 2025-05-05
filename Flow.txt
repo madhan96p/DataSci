@@ -2,14 +2,22 @@ Class:1 - Python - Basic (DS-WD-T-B18)- Shared screen with speaker view
 D1        Oct 18, 2024 08:47 AM
 --- Just VScode and Py setup
 
+
 Class:2 - Python - Basic (DS-WD-T-B18) @9:00AM- Shared screen with speaker view
 D2        Oct 21, 2024 08:40 AM
 --- Basic ABCD in Python
+
 
 Class:3 - Python - Advanced (DS-WD-T-B18) @9:00AM- Shared screen with speaker view
 D3        Oct 22, 2024 08:52 AM
 --- ATM System and built in Functions
 
+
 Class:4 - Python - Advanced (DS-WD-T-B18) @9:00AM- Shared screen with speaker view
 D4        Oct 23, 2024 08:45 AM
---- 
+--- [rajini kanth, kamal hasan, alia bhatt]
+
+
+Class:5 - Algorithmic thinking with Python (DS-WD-T-B18) @9:00AM- Shared screen with speaker view
+D5        Oct 24, 2024 08:47 AM
+---
