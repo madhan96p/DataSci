@@ -20,4 +20,5 @@ D4        Oct 23, 2024 08:45 AM
 
 Class:5 - Algorithmic thinking with Python (DS-WD-T-B18) @9:00AM- Shared screen with speaker view
 D5        Oct 24, 2024 08:47 AM
----
+--- Slicing, [list, Str, opperations...]
+
