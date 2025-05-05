@@ -9,3 +9,7 @@ D2        Oct 21, 2024 08:40 AM
 Class:3 - Python - Advanced (DS-WD-T-B18) @9:00AM- Shared screen with speaker view
 D3        Oct 22, 2024 08:52 AM
 --- ATM System and built in Functions
+
+Class:4 - Python - Advanced (DS-WD-T-B18) @9:00AM- Shared screen with speaker view
+D4        Oct 23, 2024 08:45 AM
+--- 
