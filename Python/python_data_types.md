@@ -1,7 +1,3 @@
-Here's the **Markdown content** for the topic **`Python Data Types`**, structured neatly in a table format — perfect for interview prep or learning recap.
-
----
-
 ### 📘 **Python Data Types**
 
 Python has several built-in data types that are used to store and manipulate different kinds of data.
