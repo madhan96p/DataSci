@@ -83,3 +83,48 @@ isinstance("hello", str)  # True
 ```
 
 ---
+Here’s a **mini-hint summary (Markdown)** version of your `🧠 Python Functions` content, styled like your **Keywords / Built-in / Types** tables for your `py_fun.md`:
+
+---
+
+# 🧠 Python Functions – Quick Reference
+
+This section provides a **quick and structured overview** of Python function concepts for fast interview revision.
+
+---
+
+## 📦 Types of Function Arguments
+
+| Type            | Syntax / Example                   | Use Case                  |
+| --------------- | ---------------------------------- | ------------------------- |
+| Positional      | `func(a, b)`                       | Basic fixed-order inputs  |
+| Keyword         | `func(x=10, y=20)`                 | Specifying by name        |
+| Default         | `def greet(name="Guest")`          | Provide fallback          |
+| Variable-length | `*args`, `**kwargs`                | Accept flexible arguments |
+| Mixed           | `def mix(a, b=0, *args, **kwargs)` | Combine types             |
+
+---
+
+## 🧠 Higher-Order Functions
+
+Functions that take other functions as input/output:
+
+| Function           | Description                           |
+| ------------------ | ------------------------------------- |
+| `map()`            | Apply a function to each element      |
+| `filter()`         | Filter elements via condition         |
+| `reduce()`         | Accumulate result (needs `functools`) |
+| `sorted(key=func)` | Sort using custom logic               |
+
+---
+
+## 🌍 Scope Rules (LEGB)
+
+| Level     | Meaning                       |
+| --------- | ----------------------------- |
+| Local     | Inside current function       |
+| Enclosing | Outer function                |
+| Global    | Top-level of script/module    |
+| Built-in  | Python defaults (`len`, etc.) |
+
+---
