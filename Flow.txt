@@ -28,4 +28,8 @@ D3        Oct 25, 2024 08:49 AM
 
 Class:7 - SQL (DS-WD-T-B18) @9:00AM- Shared screen with speaker view
 D3        Oct 28, 2024 08:45 AM
---- Class and object upto self 1:30min need to resume tmro
+--- Class and object and encapsulation Json, Global local
+
+Class:8 - SQL (DS-WD-T-B18) @9:00AM- Shared screen with speaker view
+D4        Oct 29, 2024 08:54 AM
+--- 
