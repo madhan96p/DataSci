@@ -32,4 +32,7 @@ D3        Oct 28, 2024 08:45 AM
 
 Class:8 - SQL (DS-WD-T-B18) @9:00AM- Shared screen with speaker view
 D4        Oct 29, 2024 08:54 AM
---- Lambda, filter
+--- Lambda, filter, fun(fun())
+
+Class:9 - SQL (DS-WD-T-B18) @9:00AM- Shared screen with speaker view
+D5        Oct 30, 2024 08:44 AM
